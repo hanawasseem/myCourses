@@ -1,0 +1,57 @@
+nav {
+    background-color: #015041;
+    text-align: right;
+    padding: 2% 0;
+    margin: -1%;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 120%;
+    margin: 0 1%;
+    color: white;
+    background-color: #015041;
+}
+body{
+    background-color: #dfe6da; 
+}
+header {
+   color: white;
+   text-align:center;
+}
+.form3 {
+    margin-top: 4%;
+     background-color:#015041;
+     padding-top:5%;
+     color: white; 
+     width: 30%;
+     margin-right:auto;
+     margin-left:auto; 
+     padding: 11% 4%;
+     border-radius: 2%;
+     border: 0.2% solid #dfe6da;
+     margin-bottom: 9%; 
+}
+input {
+    padding: 1%;
+    width:90%;
+    margin:1%;
+}
+textarea{
+    width:90%;
+    margin-top:1%;
+    margin : 2%;
+}
+footer {
+    background-color: #015041;
+    padding: 5%;
+    margin: -1%;
+    text-align: center;
+    color: white;
+}
+
+#button {
+    width:20%;
+    margin-left:74%;
+    padding:1%;
+}

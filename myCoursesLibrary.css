@@ -1,0 +1,50 @@
+body{
+    background-color: #dfe6da;
+}
+nav {
+    background-color: #015041;
+    text-align: right;
+    padding: 2% 0;
+    margin: -1%;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 120%;
+    margin: 0 1%;
+    color: white;
+    background-color: #015041;
+}
+header {
+    color: white;
+    text-align:center;
+    padding: 1%;
+     background-color: rgba(1 80 65) ;
+     border:#015041 0.2% solid;
+     border-radius: 2%; 
+     width:20%;
+    margin:auto;
+    margin-top: 9%;
+}
+
+table {
+
+   width:40%;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    background-color:white;
+    color:#015041;
+    border:#015041 0.2% solid;
+    margin-top:3%;   
+}
+main {
+    margin-bottom: 9%;
+}
+footer {
+    background-color: #015041;
+    padding: 5%;
+    margin: -1%;
+    text-align: center;
+    color: white;
+}
